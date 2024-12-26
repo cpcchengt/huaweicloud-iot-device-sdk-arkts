@@ -1,1 +1,4 @@
-*.txt
+entry/
+AppScope/
+*.json5
+*.md
